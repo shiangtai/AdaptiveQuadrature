@@ -1,0 +1,1 @@
+This Python code illustrates the use of the Adaptive Quadrature method for performing numerical integration using Simpson's method. The second 2.py script provides visualization at the points where the function is evaluated during the integration process.
